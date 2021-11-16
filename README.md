@@ -1,10 +1,10 @@
 # Readme <a href='https://osf.io/zcvbs/'><img src='worcs_icon.png' align="right" height="139" /></a>
 
-<!-- Please add a brief introduction to explain what the project is about    -->
+For the open science part of the course Multivariate Statistics I learn to use the WORCS workflow. To practice this I do some analyses on the "vet.data" data set, containing information on 400 cats from different vet clinics.   
 
 ## Where do I start?
 
-You can load this project in RStudio by opening the file called 'tryWORCS2.Rproj'.
+You can load this project in RStudio by opening the file called 'tryWORCS.Rproj'.
 
 ## Project structure
 
@@ -12,9 +12,21 @@ You can load this project in RStudio by opening the file called 'tryWORCS2.Rproj
 File                      | Description                      | Usage         
 ------------------------- | -------------------------------- | --------------
 README.md                 | Description of project           | Human editable
-tryWORCS2.Rproj           | Project file                     | Loads project 
+tryWORCS.Rproj            | Project file                     | Loads project 
 LICENSE                   | User permissions                 | Read only     
 .worcs                    | WORCS metadata YAML              | Read only     
+preregistration.rmd       | Preregistered hypotheses         | Human editable
+prepare_data.R            | Script to process raw data       | Human editable
+manuscript/manuscript.rmd | Source code for paper            | Human editable
+manuscript/references.bib | BibTex references for manuscript | Human editable
+renv.lock                 | Reproducible R environment       | Read only     
+File                      | Description                      | Usage         
+------------------------- | -------------------------------- | --------------
+README.md                 | Description of project           | Human editable
+tryWORCS.Rproj            | Project file                     | Loads project 
+LICENSE                   | User permissions                 | Read only     
+.worcs                    | WORCS metadata YAML              | Read only     
+preregistration.rmd       | Preregistered hypotheses         | Human editable
 prepare_data.R            | Script to process raw data       | Human editable
 manuscript/manuscript.rmd | Source code for paper            | Human editable
 manuscript/references.bib | BibTex references for manuscript | Human editable
