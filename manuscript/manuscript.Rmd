@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Cats data analysis to practice WORCS"
 output: github_document
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 bibliography: references.bib

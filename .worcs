@@ -1,3 +1,11 @@
 worcs_version: 0.1.8
 creator: rasil
 entry_point: manuscript/manuscript.Rmd
+data:
+  CatsData:
+    codebook: codebook_tidy.data.Rmd
+  tidy.data.csv:
+    codebook: codebook_tidy.data.Rmd
+checksums:
+  CatsData: f385cca92a93dbd4ab89fcb51c467d97
+  tidy.data.csv: f385cca92a93dbd4ab89fcb51c467d97

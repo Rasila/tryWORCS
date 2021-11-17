@@ -10,3 +10,6 @@
 *.log
 *.tex
 .Rproj.user
+!CatsData
+!codebook_tidy.data.csv
+!tidy.data.csv
